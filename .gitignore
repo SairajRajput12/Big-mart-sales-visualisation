@@ -1,0 +1,8 @@
+node_modules 
+venv 
+package-lock.json 
+package.json 
+SuperStore_Sales_Dataset.csv 
+Test-Set.csv 
+test.py
+.env
